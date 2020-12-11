@@ -1,0 +1,4 @@
+pandas==1.1.5
+tensorflow==2.3.0
+termcolor==1.1.0
+num2words==0.5.10
