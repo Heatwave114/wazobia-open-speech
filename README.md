@@ -5,7 +5,7 @@ wazobia-open-speech is an automatic speech recognition system that can understan
 ## Steps to train
 Download [training audio files][wazobia folder link]. Use download as zip option.
 
-Move unzipped wazobia file to ./util
+Move unzipped wazobia directory to ./util
 
 Change directory to root of repo
 
