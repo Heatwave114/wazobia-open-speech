@@ -33,6 +33,14 @@ We provide a [model][benchmark model link] as benchmark trained with the followi
 - **epochs**: &nbsp; **100**
 - **learning_rate**: &nbsp; **0.0001**
 
+### Result in benchmark
+WER = Word Error Rate
+CER = Character Error Rate
+
+| WER | CER |
+| ------ | ------ |
+| 0.992230 | 0.581740 |
+
 ## Data collection
 Speech data is collected by means of a mobile application ([wazobia open speech mobile][play link]) written with [flutter](https://flutter.dev). The app is currently only available for download in Nigeria although a website will be available in the near future for data collection. The source codes for the mobile and web applications will also be availed to the public.
 
