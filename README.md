@@ -34,7 +34,7 @@ We provide a [model][benchmark model link] as benchmark trained with the followi
 - **learning_rate**: &nbsp; **0.0001**
 
 ### Result in benchmark
-WER = Word Error Rate
+WER = Word Error Rate  
 CER = Character Error Rate
 
 | WER | CER |
